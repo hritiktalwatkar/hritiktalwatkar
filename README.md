@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hritiktalwatkar
 - 👀 I’m interested in Website Designing and Developing
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Backend Development and Application Development
 - 💞️ I’m looking to collaborate with other content creators
 
 <!---
