@@ -2,7 +2,6 @@
 - 👀 I’m interested in Website Designing and Developing
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate with other content creators
-- 📫 How to reach me Instagram - @hritiktalwatkar 
 
 <!---
 hritiktalwatkar/hritiktalwatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
